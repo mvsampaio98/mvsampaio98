@@ -21,6 +21,7 @@ Here in this profile you find a person passionate about technology. My name is M
   <h4> 📈 My Stats...</h4>
 <div align="center">
   <a href="https://github.com/mvsampaio98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvsampaio98&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsampaio98&layout=compact&langs_count=7&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mvsampaio98&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+ 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsampaio98&layout=compact&langs_count=7&theme=light"/>
 </div>
