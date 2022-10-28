@@ -39,8 +39,9 @@ Here in this profile you find a person passionate about technology. My name is M
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-  <h4> 📈 My Stats...</h4>
-<div>
-  <a href="https://github.com/mvsampaio98">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mvsampaio98&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-</div>
+  <h4> 📈 My Projects...</h4>
+
+| Alura Cash  | Restaurante Guru |
+| - | - |
+| IMAGEM_1 | IMAGEM_2 |
+| In this project, an algorithm was developed that evaluates the credit scoring of a bank's customers and predicts whether or not they may be in default. An Exploratory Data Analysis (EDA), comparison of Machine Learning models and optimization of the selected model was performed. |  In this project, I practiced some of my Web Scrapping skills. I was able to extract information on restaurant names, location, price and type of food.  |
