@@ -41,7 +41,11 @@ Here in this profile you find a person passionate about technology. My name is M
 
   <h4> 📈 My Projects...</h4>
 
+<div align="center">
+
 | Alura Cash  | Restaurante Guru |
 | - | - |
-| IMAGEM_1 | IMAGEM_2 |
+| [![banner](https://user-images.githubusercontent.com/78426140/199240733-228536e8-77d9-4482-a199-d5e12c935c2b.png)](https://github.com/mvsampaio98/Alura_cash) | IMAGEM_2 |
 | In this project, an algorithm was developed that evaluates the credit scoring of a bank's customers and predicts whether or not they may be in default. An Exploratory Data Analysis (EDA), comparison of Machine Learning models and optimization of the selected model was performed. |  In this project, I practiced some of my Web Scrapping skills. I was able to extract information on restaurant names, location, price and type of food.  |
+
+  </div>
