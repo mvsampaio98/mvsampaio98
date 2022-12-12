@@ -41,29 +41,10 @@
 
   <h4> 📈 My Projects...</h4>
 
-<div align="center">
+• [**Alura Cash**](https://github.com/mvsampaio98/Alura_cash)
 
-<table>
-  <tr>
-    <th>Alura Cash</th>
-    <th>Restaurante Guru</th>
-  </tr>
-  <tr>
-    <td>
-      <div align="center"><a href="https://github.com/mvsampaio98/Alura_cash">
-  <img src="https://user-images.githubusercontent.com/78426140/199251135-e9ed460f-fb99-482c-bf08-5ebc5f53c4e6.png" style="width:150px;height:150px;">
-        </a></div>
-    </td>
-    <td>
-    <div align="center"><a href="https://github.com/mvsampaio98/Restaurant-Guru/blob/main/Restaurant-Guru.ipynb">
-  <img src="https://user-images.githubusercontent.com/78426140/199253193-d6c65bf7-b5a1-422d-bd28-62445a3323dc.PNG" style="width:500px;height:150px;">
-        </a></div>
-    </td>
-  </tr>
-  <tr>
-    <td> <div align="justify"> In this project, an algorithm was developed that evaluates the credit scoring of a bank's customers and predicts whether or not they may be in default. An Exploratory Data Analysis (EDA), comparison of Machine Learning models and optimization of the selected model was performed. </div> </td>
-    <td><div align="justify"> In this project, I practiced some of my Web Scrapping skills. I was able to extract information on restaurant names, location, price and type of food.</div></td>
-  </tr>
-</table>  
-  
-</div>
+In this project, an algorithm was developed that evaluates the credit scoring of a bank's customers and predicts whether or not they may be in default. An Exploratory Data Analysis (EDA), comparison of Machine Learning models and optimization of the selected model was performed.
+
+• [**Restaurante Guru**](https://github.com/mvsampaio98/Restaurant-Guru/blob/main/Restaurant-Guru.ipynb)
+
+In this project, I practiced some of my Web Scrapping skills. I was able to extract information on restaurant names, location, price and type of food.
