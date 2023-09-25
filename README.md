@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-victor-sa-coqueiro-sampaio/)
 [![](https://img.shields.io/badge/Gmail-mvsampaio98@gmail.com-red)](mailto:mvsampaio98@gmail.com)
 
-<div align="justify"> Here in this profile you find a person passionate about technology. My name is Marcelo and I'm majoring in Electrical Engineering at IFBA in campus Vitória da Conquista. I'm a member of the GIPAR (Research and Innovation Group in Robotics and Automation) and the IEEE(Institute of Electrical and Electronics Engineers). At GIPAR I'm participating in a project to develop a Navigation System for an autonomous wheelchair using ROS and Gazebo. I'm currently studying Machine Learning, Deep Learning, Reinforcement Learning and SQL to become a Data Scientist or Data Engineer in the future. </div>
+<div align="justify"> I'm bachelor degree in Electrical Enginering in Federal Institute of Bahia. During my graduation I identified with the areas of Mathematics and Programming. I had the opportunity to participate in the robotics group (GIPAR) for two years developing an Autonomous Navigation System to a motorized wheelchair. Currently, I doing a Data Science Postgraduate degree to upgrade my knowledge in Data Analysis, Business Analysis, Machine Learning and Deep Learning.</div>
 
   <h4>😀 About-me...</h4>
 
