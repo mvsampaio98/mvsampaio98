@@ -7,12 +7,10 @@
 <div align="justify"> I'm bachelor degree in Electrical Enginering in Federal Institute of Bahia. During my graduation I identified with the areas of Mathematics and Programming. I had the opportunity to participate in the robotics group (GIPAR) for two years developing an Autonomous Navigation System to a motorized wheelchair. Currently, I doing a Data Science Postgraduate degree to upgrade my knowledge in Data Analysis, Business Analysis, Machine Learning and Deep Learning.</div>
 
   <h4>😀 About-me...</h4>
-
-  • 🔭 *I’m currently working on the development of a Navigation Algorithm*
   
   • 🌱 *I’m currently learning Machine Learning, Deep Learning and Reinforcement Learning*
   
-  • 💭 *I want to become a Data Scientist or Data Engineer*
+  • 💭 *I want to become a Data Scientist | Data Engineer*
   
   • 📫 *How to reach me: mvsampaio98@gmail.com | [LinkedIn](www.linkedin.com/in/marcelo-victor-sa-coqueiro-sampaio)*
   
